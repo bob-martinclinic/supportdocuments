@@ -1,0 +1,6 @@
+# Ignore everything except PDFs, CNAME, index, and this file
+*
+!.gitignore
+!CNAME
+!index.html
+!*.pdf
